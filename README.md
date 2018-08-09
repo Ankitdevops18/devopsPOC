@@ -1,3 +1,3 @@
 # devopsPOC
-Code build and store
+Storing
 this is for testing integration with jenkins
